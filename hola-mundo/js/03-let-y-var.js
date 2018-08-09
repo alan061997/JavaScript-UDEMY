@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 // Pruebas con let y var <<Diferencias de alcance>>
 
@@ -6,8 +6,8 @@
 var numero = 40;
 console.log(numero); // valor 40
 
-if (true) {
-    var numero = 50;
+if (numero === 40) {
+    numero = 50;
     console.log(numero); // valor 50
 }
 
@@ -17,7 +17,7 @@ console.log(numero); // valor 50
 let texto = "Curso de JavaScript";
 console.log(texto); // valor "Curso de JavaScript"
 
-if (true) {
+if (texto === "Curso de JavaScript") {
     let texto = "Section 6 - Lectura 20";
     console.log(texto); // valor "Section 6 - Lectura 20"
 }

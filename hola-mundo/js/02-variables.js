@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 // VARIABLES
 // Una variable es un contenedor de informacion

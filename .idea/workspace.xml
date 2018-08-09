@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09dd8ae-ae80-4718-a81c-6b20849401c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hola-mundo/js/03-let-y-var.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hola-mundo/js/04-constantes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hola-mundo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/01-hola-mundo.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/01-hola-mundo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hola-mundo/js/02-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/02-variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/03-let-y-var.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/03-let-y-var.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,27 +71,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="js" value="2" />
+          <entry key="js" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="2" />
+          <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="10" />
-          <entry key="js" value="1149" />
-          <entry key="txt" value="36" />
+          <entry key="html" value="24" />
+          <entry key="js" value="1415" />
+          <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="10" />
-          <entry key="JavaScript" value="1149" />
-          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="HTML" value="24" />
+          <entry key="JavaScript" value="1415" />
+          <entry key="PLAIN_TEXT" value="39" />
         </counts>
       </usages-collector>
     </session>
@@ -99,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+            <state relative-caret-position="255">
+              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -108,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hola-mundo/js/01-hola-mundo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -117,17 +119,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hola-mundo/js/02-variables.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="14" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hola-mundo/js/03-let-y-var.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/03-let-y-var.js">
+        <entry file="file://$PROJECT_DIR$/hola-mundo/js/04-constantes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -154,10 +165,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hola-mundo/hola-mundo.js" />
-        <option value="$PROJECT_DIR$/hola-mundo/js/01-hola-mundo.js" />
         <option value="$PROJECT_DIR$/hola-mundo/index.html" />
-        <option value="$PROJECT_DIR$/hola-mundo/js/02-variables.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/03-let-y-var.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/01-hola-mundo.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/02-variables.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/04-constantes.js" />
       </list>
     </option>
   </component>
@@ -240,7 +252,7 @@
       <updated>1533826517567</updated>
       <workItem from="1533826519038" duration="122000" />
       <workItem from="1533826713537" duration="1367000" />
-      <workItem from="1533828528142" duration="2506000" />
+      <workItem from="1533828528142" duration="2931000" />
     </task>
     <task id="LOCAL-00001" summary="Section 5 - Lecture 17">
       <created>1533828957547</created>
@@ -263,11 +275,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533831526721</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Section 6 - Lecture 20">
+      <created>1533832139137</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1533832139137</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3995000" />
+    <option name="totallyTimeSpent" value="4420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -338,38 +357,46 @@
     <MESSAGE value="Section 5 - Lecture 17" />
     <MESSAGE value="Section 6 - Lecture 18" />
     <MESSAGE value="Section 6 - Lecture 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 6 - Lecture 19" />
+    <MESSAGE value="Section 6 - Lecture 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 6 - Lecture 20" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/01-hola-mundo.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="255">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/01-hola-mundo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hola-mundo/js/02-variables.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="14" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hola-mundo/js/03-let-y-var.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/04-constantes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
