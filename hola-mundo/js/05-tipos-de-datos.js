@@ -15,4 +15,7 @@ var verdaderoOfalso = false;
 var numeroFalso = "666";
 
 
-console.log(String(numeroEntero) + 4);
+console.log(typeof numeroEntero);
+console.log(typeof cadenaTexto);
+console.log(typeof verdaderoOfalso);
+console.log(typeof numeroFalso);
