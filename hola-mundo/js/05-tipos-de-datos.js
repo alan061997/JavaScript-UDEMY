@@ -14,7 +14,6 @@ var verdaderoOfalso = false;
 
 var numeroFalso = "666";
 
-
 console.log(typeof numeroEntero);
 console.log(typeof cadenaTexto);
 console.log(typeof verdaderoOfalso);
