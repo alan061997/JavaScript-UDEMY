@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09dd8ae-ae80-4718-a81c-6b20849401c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hola-mundo/js/11-ejercicio1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hola-mundo/js/12-ejercicio2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hola-mundo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/index.html" afterDir="false" />
     </list>
@@ -68,27 +68,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="js" value="10" />
+          <entry key="js" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="10" />
+          <entry key="JavaScript" value="11" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="48" />
-          <entry key="js" value="4712" />
-          <entry key="txt" value="68" />
+          <entry key="html" value="89" />
+          <entry key="js" value="5539" />
+          <entry key="txt" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="48" />
-          <entry key="JavaScript" value="4712" />
-          <entry key="PLAIN_TEXT" value="68" />
+          <entry key="HTML" value="89" />
+          <entry key="JavaScript" value="5539" />
+          <entry key="PLAIN_TEXT" value="76" />
         </counts>
       </usages-collector>
     </session>
@@ -98,17 +98,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+            <state relative-caret-position="391">
+              <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/11-ejercicio1.js">
+        <entry file="file://$PROJECT_DIR$/hola-mundo/js/12-ejercicio2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="159">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -145,8 +145,9 @@
         <option value="$PROJECT_DIR$/hola-mundo/js/08-bucle-for.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/09-while.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/10-ventanas.js" />
-        <option value="$PROJECT_DIR$/hola-mundo/index.html" />
         <option value="$PROJECT_DIR$/hola-mundo/js/11-ejercicio1.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/index.html" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/12-ejercicio2.js" />
       </list>
     </option>
   </component>
@@ -229,7 +230,7 @@
       <updated>1533826517567</updated>
       <workItem from="1533826519038" duration="122000" />
       <workItem from="1533826713537" duration="1367000" />
-      <workItem from="1533828528142" duration="9987000" />
+      <workItem from="1533828528142" duration="11692000" />
     </task>
     <task id="LOCAL-00001" summary="Section 5 - Lecture 17">
       <created>1533828957547</created>
@@ -336,11 +337,25 @@
       <option name="project" value="LOCAL" />
       <updated>1533913822878</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Section 11 - Lecture 32">
+      <created>1533915798244</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1533915798244</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Section 12 - Lecture 33">
+      <created>1533916411860</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1533916411860</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11476000" />
+    <option name="totallyTimeSpent" value="13181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -424,7 +439,9 @@
     <MESSAGE value="Section 9 - Lecture 29" />
     <MESSAGE value="Section 9 - Lecture 30" />
     <MESSAGE value="Section 10 - Lecture 31" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 10 - Lecture 31" />
+    <MESSAGE value="Section 11 - Lecture 32" />
+    <MESSAGE value="Section 12 - Lecture 33" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 12 - Lecture 33" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -501,17 +518,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/11-ejercicio1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        <state>
+          <caret selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/11-ejercicio1.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="391">
+          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/12-ejercicio2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
