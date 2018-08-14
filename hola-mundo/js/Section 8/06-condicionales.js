@@ -55,7 +55,7 @@ NEGACIÓN: !
 var year = 2018;
 
 // Negación
-if (year != 2016) {
+if (year !== 2016) {
     console.log("El año no es 2016, es el año " + year + ".");
 }
 
@@ -67,7 +67,7 @@ if (year >= 2000 && year <= 2020) {
 }
 
 // OR
-if (year == 2008 || (year >= 2018 && year == 2028)) {
+if (year === 2008 || (year >= 2018 && year === 2028)) {
     console.log("El año acaba en 8.");
 } else {
     console.log("AÑO NO REGISTRADO.");

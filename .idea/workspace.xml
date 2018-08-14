@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09dd8ae-ae80-4718-a81c-6b20849401c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hola-mundo/js/18-ejercicio8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/01-hola-mundo.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 5/01-hola-mundo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/02-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 6/02-variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/03-let-y-var.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 6/03-let-y-var.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/04-constantes.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 6/04-constantes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/05-tipos-de-datos.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 7/05-tipos-de-datos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/06-condicionales.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 8/06-condicionales.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/07-switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 8/07-switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/08-bucle-for.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 9/08-bucle-for.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/09-while.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 9/09-while.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/10-ventanas.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 10/10-ventanas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/11-ejercicio1.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/11-ejercicio1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/12-ejercicio2.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/12-ejercicio2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/13-ejercicio3.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/13-ejercicio3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/14-ejercicio4.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/14-ejercicio4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/15-ejercicio5.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/15-ejercicio5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/16-ejercicio6.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/16-ejercicio6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/17-ejercicio7.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/17-ejercicio7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/18-ejercicio8.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/18-ejercicio8.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -70,27 +89,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="js" value="17" />
+          <entry key="js" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="17" />
+          <entry key="JavaScript" value="18" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="107" />
-          <entry key="js" value="6932" />
-          <entry key="txt" value="93" />
+          <entry key="html" value="125" />
+          <entry key="js" value="7174" />
+          <entry key="txt" value="96" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="107" />
-          <entry key="JavaScript" value="6932" />
-          <entry key="PLAIN_TEXT" value="93" />
+          <entry key="HTML" value="125" />
+          <entry key="JavaScript" value="7174" />
+          <entry key="PLAIN_TEXT" value="96" />
         </counts>
       </usages-collector>
     </session>
@@ -100,62 +119,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/13-ejercicio3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/14-ejercicio4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/15-ejercicio5.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/16-ejercicio6.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/17-ejercicio7.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="261">
+              <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/18-ejercicio8.js">
+        <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="136">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -198,9 +172,11 @@
         <option value="$PROJECT_DIR$/hola-mundo/js/14-ejercicio4.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/15-ejercicio5.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/16-ejercicio6.js" />
-        <option value="$PROJECT_DIR$/hola-mundo/index.html" />
         <option value="$PROJECT_DIR$/hola-mundo/js/17-ejercicio7.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/18-ejercicio8.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/19-funciones.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/index.html" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js" />
       </list>
     </option>
   </component>
@@ -239,6 +215,13 @@
               <item name="hola-mundo" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaScript-UDEMY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript-UDEMY" type="462c0819:PsiDirectoryNode" />
+              <item name="hola-mundo" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 12" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -257,7 +240,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\CDIS 2018\Documents\Zul\Udemy\JavaScript-UDEMY\hola-mundo\js" />
+      <recent name="C:\Users\CDIS 2018\Documents\Zul\Udemy\JavaScript-UDEMY\hola-mundo\js\Section 12" />
+      <recent name="C:\Users\CDIS 2018\Documents\Zul\Udemy\JavaScript-UDEMY\hola-mundo\js\Section 11" />
+      <recent name="C:\Users\CDIS 2018\Documents\Zul\Udemy\JavaScript-UDEMY\hola-mundo\js\Section 10" />
+      <recent name="C:\Users\CDIS 2018\Documents\Zul\Udemy\JavaScript-UDEMY\hola-mundo\js\Section 9" />
+      <recent name="C:\Users\CDIS 2018\Documents\Zul\Udemy\JavaScript-UDEMY\hola-mundo\js\Section 8" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -286,7 +273,7 @@
       <workItem from="1533826713537" duration="1367000" />
       <workItem from="1533828528142" duration="13057000" />
       <workItem from="1534170307405" duration="6444000" />
-      <workItem from="1534258013083" duration="933000" />
+      <workItem from="1534258013083" duration="1908000" />
     </task>
     <task id="LOCAL-00001" summary="Section 5 - Lecture 17">
       <created>1533828957547</created>
@@ -449,17 +436,24 @@
       <option name="project" value="LOCAL" />
       <updated>1534174186765</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Section 11 - Lecture 40">
+      <created>1534259974895</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1534259974895</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21923000" />
+    <option name="totallyTimeSpent" value="22898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23977433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23977433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -470,8 +464,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293011" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293011" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3293011" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -545,143 +539,151 @@
     <MESSAGE value="Section 11 - Lecture 37" />
     <MESSAGE value="Section 11 - Lecture 38" />
     <MESSAGE value="Section 11 - Lecture 39" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 11 - Lecture 39" />
+    <MESSAGE value="Section 11 - Lecture 40" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 11 - Lecture 40" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/02-variables.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 6/02-variables.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/01-hola-mundo.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 5/01-hola-mundo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/03-let-y-var.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 6/03-let-y-var.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/04-constantes.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 6/04-constantes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/05-tipos-de-datos.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 7/05-tipos-de-datos.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/06-condicionales.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 8/06-condicionales.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/07-switch.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 8/07-switch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/08-bucle-for.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 9/08-bucle-for.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/09-while.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 9/09-while.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/10-ventanas.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 10/10-ventanas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/11-ejercicio1.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/11-ejercicio1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/12-ejercicio2.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/12-ejercicio2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/13-ejercicio3.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/13-ejercicio3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/14-ejercicio4.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/14-ejercicio4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="86" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/15-ejercicio5.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/15-ejercicio5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/16-ejercicio6.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/16-ejercicio6.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/17-ejercicio7.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/17-ejercicio7.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/18-ejercicio8.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/18-ejercicio8.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="272">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
