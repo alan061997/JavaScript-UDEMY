@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09dd8ae-ae80-4718-a81c-6b20849401c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/01-hola-mundo.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 5/01-hola-mundo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/02-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 6/02-variables.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/03-let-y-var.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 6/03-let-y-var.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/04-constantes.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 6/04-constantes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/05-tipos-de-datos.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 7/05-tipos-de-datos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/06-condicionales.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 8/06-condicionales.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/07-switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 8/07-switch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/08-bucle-for.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 9/08-bucle-for.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/09-while.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 9/09-while.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/10-ventanas.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 10/10-ventanas.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/11-ejercicio1.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/11-ejercicio1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/12-ejercicio2.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/12-ejercicio2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/13-ejercicio3.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/13-ejercicio3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/14-ejercicio4.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/14-ejercicio4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/15-ejercicio5.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/15-ejercicio5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/16-ejercicio6.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/16-ejercicio6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/17-ejercicio7.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/17-ejercicio7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/18-ejercicio8.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 11/18-ejercicio8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -89,27 +70,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="js" value="18" />
+          <entry key="js" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="18" />
+          <entry key="JavaScript" value="22" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="125" />
-          <entry key="js" value="7174" />
-          <entry key="txt" value="96" />
+          <entry key="js" value="7692" />
+          <entry key="txt" value="102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="125" />
-          <entry key="JavaScript" value="7174" />
-          <entry key="PLAIN_TEXT" value="96" />
+          <entry key="JavaScript" value="7692" />
+          <entry key="PLAIN_TEXT" value="102" />
         </counts>
       </usages-collector>
     </session>
@@ -128,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="255">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -176,6 +157,8 @@
         <option value="$PROJECT_DIR$/hola-mundo/js/18-ejercicio8.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/19-funciones.js" />
         <option value="$PROJECT_DIR$/hola-mundo/index.html" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/Section 8/06-condicionales.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/Section 6/04-constantes.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js" />
       </list>
     </option>
@@ -214,6 +197,13 @@
               <item name="JavaScript-UDEMY" type="462c0819:PsiDirectoryNode" />
               <item name="hola-mundo" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript-UDEMY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript-UDEMY" type="462c0819:PsiDirectoryNode" />
+              <item name="hola-mundo" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaScript-UDEMY" type="b2602c69:ProjectViewProjectNode" />
@@ -273,7 +263,7 @@
       <workItem from="1533826713537" duration="1367000" />
       <workItem from="1533828528142" duration="13057000" />
       <workItem from="1534170307405" duration="6444000" />
-      <workItem from="1534258013083" duration="1908000" />
+      <workItem from="1534258013083" duration="3901000" />
     </task>
     <task id="LOCAL-00001" summary="Section 5 - Lecture 17">
       <created>1533828957547</created>
@@ -443,11 +433,25 @@
       <option name="project" value="LOCAL" />
       <updated>1534259974895</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Section 12 - Lecture 41">
+      <created>1534260912014</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1534260912014</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Section 12 - Lecture 42">
+      <created>1534264903305</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1534264903305</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22898000" />
+    <option name="totallyTimeSpent" value="24891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -516,7 +520,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Section 5 - Lecture 17" />
     <MESSAGE value="Section 6 - Lecture 18" />
     <MESSAGE value="Section 6 - Lecture 19" />
     <MESSAGE value="Section 6 - Lecture 20" />
@@ -540,7 +543,9 @@
     <MESSAGE value="Section 11 - Lecture 38" />
     <MESSAGE value="Section 11 - Lecture 39" />
     <MESSAGE value="Section 11 - Lecture 40" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 11 - Lecture 40" />
+    <MESSAGE value="Section 12 - Lecture 41" />
+    <MESSAGE value="Section 12 - Lecture 42" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 12 - Lecture 42" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -568,24 +573,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 6/04-constantes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 7/05-tipos-de-datos.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 8/06-condicionales.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -666,10 +657,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/18-ejercicio8.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 8/06-condicionales.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        <state relative-caret-position="278">
+          <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 6/04-constantes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -680,10 +678,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/18-ejercicio8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="255">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
