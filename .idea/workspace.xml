@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e09dd8ae-ae80-4718-a81c-6b20849401c3" name="Default Changelist" comment="">
+    <list default="true" id="e09dd8ae-ae80-4718-a81c-6b20849401c3" name="Default Changelist" comment="Section 12 - Lecture 44">
+      <change afterPath="$PROJECT_DIR$/hola-mundo/js/Section 12/20-parametros2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -70,27 +71,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="js" value="22" />
+          <entry key="js" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="22" />
+          <entry key="JavaScript" value="23" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="125" />
-          <entry key="js" value="7692" />
-          <entry key="txt" value="102" />
+          <entry key="html" value="132" />
+          <entry key="js" value="8071" />
+          <entry key="txt" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="125" />
-          <entry key="JavaScript" value="7692" />
-          <entry key="PLAIN_TEXT" value="102" />
+          <entry key="HTML" value="132" />
+          <entry key="JavaScript" value="8071" />
+          <entry key="PLAIN_TEXT" value="106" />
         </counts>
       </usages-collector>
     </session>
@@ -100,17 +101,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+            <state relative-caret-position="295">
+              <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js">
+        <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/20-parametros2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="102">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -156,10 +157,11 @@
         <option value="$PROJECT_DIR$/hola-mundo/js/17-ejercicio7.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/18-ejercicio8.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/19-funciones.js" />
-        <option value="$PROJECT_DIR$/hola-mundo/index.html" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 8/06-condicionales.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 6/04-constantes.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/index.html" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/20-parametros2.js" />
       </list>
     </option>
   </component>
@@ -263,7 +265,7 @@
       <workItem from="1533826713537" duration="1367000" />
       <workItem from="1533828528142" duration="13057000" />
       <workItem from="1534170307405" duration="6444000" />
-      <workItem from="1534258013083" duration="3901000" />
+      <workItem from="1534258013083" duration="5172000" />
     </task>
     <task id="LOCAL-00001" summary="Section 5 - Lecture 17">
       <created>1533828957547</created>
@@ -447,11 +449,25 @@
       <option name="project" value="LOCAL" />
       <updated>1534264903305</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Section 12 - Lecture 43">
+      <created>1534265327229</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1534265327229</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Section 12 - Lecture 44">
+      <created>1534267499694</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1534267499694</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24891000" />
+    <option name="totallyTimeSpent" value="26162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -520,8 +536,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Section 6 - Lecture 18" />
-    <MESSAGE value="Section 6 - Lecture 19" />
     <MESSAGE value="Section 6 - Lecture 20" />
     <MESSAGE value="Section 6 - Lecture 21" />
     <MESSAGE value="Section 7 - Lecture 22" />
@@ -545,7 +559,9 @@
     <MESSAGE value="Section 11 - Lecture 40" />
     <MESSAGE value="Section 12 - Lecture 41" />
     <MESSAGE value="Section 12 - Lecture 42" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 12 - Lecture 42" />
+    <MESSAGE value="Section 12 - Lecture 43" />
+    <MESSAGE value="Section 12 - Lecture 44" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 12 - Lecture 44" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -671,13 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 11/18-ejercicio8.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -687,8 +696,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="306">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/20-parametros2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
