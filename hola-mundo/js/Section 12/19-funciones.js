@@ -2,32 +2,29 @@
 
 // Funciones
 
-function calculadora(numero1, numero2, mostrar = false) {
+function enConsola(numero1, numero2) {
     var resultado = "La suma de " + numero1 + " + " + numero2 + " es: " + (numero1 + numero2) + "\n" +
         "La resta de " + numero1 + " - " + numero2 + " es: " + (numero1 - numero2) + "\n" +
         "La multiplicacion de " + numero1 + " * " + numero2 + " es: " + (numero1 * numero2) + "\n" +
         "La division de " + numero1 + " / " + numero2 + " es: " + (numero1 / numero2) + "\n";
+    console.log(resultado);
+}
 
-    var resultadoWEB = "La suma de " + numero1 + " + " + numero2 + " es: " + (numero1 + numero2) + "<br/>" +
+function enPantalla(numero1, numero2) {
+    var resultado = "La suma de " + numero1 + " + " + numero2 + " es: " + (numero1 + numero2) + "<br/>" +
         "La resta de " + numero1 + " - " + numero2 + " es: " + (numero1 - numero2) + "<br/>" +
         "La multiplicacion de " + numero1 + " * " + numero2 + " es: " + (numero1 * numero2) + "<br/>" +
         "La division de " + numero1 + " / " + numero2 + " es: " + (numero1 / numero2) + "<br/>";
-
-    if (mostrar === false) {
-        console.log(resultado);
-        console.log("\n*********************************\n\n");
-    } else {
-        document.write("*********************************<br/>");
-        document.write("******** CALCULADORA *********<br/>");
-        document.write("*********************************<br/><br/>");
-        document.write(resultadoWEB);
-        document.write("<br/>*********************************<br/><br/>");
-    }
+    document.write(resultado);
 }
 
-console.log("*********************************");
-console.log("********** CALCULADORA **********");
-console.log("*********************************\n\n");
+function calculadora(numero1, numero2, mostrar = false) {
+    if (mostrar === false) {
+        enConsola(numero1, numero2);
+    } else {
+        enPantalla(numero1, numero2);
+    }
+}
 
 /*for (var i = 0; i <= 10; i++) {
     console.log("[" + i + "]");
