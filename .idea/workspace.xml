@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09dd8ae-ae80-4718-a81c-6b20849401c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hola-mundo/js/Section 12/21-funciones-anonimas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hola-mundo/js/Section 12/22-ambito.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -60,37 +60,40 @@
     <session id="-1993043199">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="js" value="24" />
+          <entry key="js" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="24" />
+          <entry key="JavaScript" value="25" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="132" />
-          <entry key="js" value="8528" />
-          <entry key="txt" value="107" />
+          <entry key="html" value="133" />
+          <entry key="js" value="8657" />
+          <entry key="txt" value="109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="132" />
-          <entry key="JavaScript" value="8528" />
-          <entry key="PLAIN_TEXT" value="107" />
+          <entry key="HTML" value="133" />
+          <entry key="JavaScript" value="8657" />
+          <entry key="PLAIN_TEXT" value="109" />
         </counts>
       </usages-collector>
     </session>
@@ -100,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+            <state relative-caret-position="527">
+              <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -115,11 +118,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/21-funciones-anonimas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="255">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/22-ambito.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -168,9 +180,10 @@
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 8/06-condicionales.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 6/04-constantes.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/19-funciones.js" />
-        <option value="$PROJECT_DIR$/hola-mundo/index.html" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/20-parametros2.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/index.html" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/21-funciones-anonimas.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/22-ambito.js" />
       </list>
     </option>
   </component>
@@ -185,6 +198,9 @@
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -274,7 +290,10 @@
       <workItem from="1533826713537" duration="1367000" />
       <workItem from="1533828528142" duration="13057000" />
       <workItem from="1534170307405" duration="6444000" />
-      <workItem from="1534258013083" duration="5676000" />
+      <workItem from="1534258013083" duration="6479000" />
+      <workItem from="1534348739795" duration="188000" />
+      <workItem from="1534349146755" duration="321000" />
+      <workItem from="1534352255257" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="Section 5 - Lecture 17">
       <created>1533828957547</created>
@@ -479,17 +498,31 @@
       <option name="project" value="LOCAL" />
       <updated>1534267870416</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Section 12 - Lecture 46">
+      <created>1534268305408</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1534268305408</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Section 12 - Lecture 47">
+      <created>1534268359535</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1534268359535</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26666000" />
+    <option name="totallyTimeSpent" value="28209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23977433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23977433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -500,7 +533,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3293011" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293011" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3293011" />
@@ -552,8 +585,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Section 6 - Lecture 21" />
-    <MESSAGE value="Section 7 - Lecture 22" />
     <MESSAGE value="Section 7 - Lecture 23" />
     <MESSAGE value="Section 8 - Lecture 24" />
     <MESSAGE value="Section 8 - Lecture 25" />
@@ -577,7 +608,9 @@
     <MESSAGE value="Section 12 - Lecture 43" />
     <MESSAGE value="Section 12 - Lecture 44" />
     <MESSAGE value="Section 12 - Lecture 45" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 12 - Lecture 45" />
+    <MESSAGE value="Section 12 - Lecture 46" />
+    <MESSAGE value="Section 12 - Lecture 47" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 12 - Lecture 47" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -717,10 +750,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/21-funciones-anonimas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="31" column="73" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -731,10 +764,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/21-funciones-anonimas.js">
+    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="414">
+          <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/22-ambito.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
