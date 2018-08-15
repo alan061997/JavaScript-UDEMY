@@ -2,23 +2,32 @@
 
 // Transformacion de cadenas de texto
 var numero = 444;
-var texto1 = "Bienvenido al curso de JavaScript.";
+var texto1 = "Bienvenido al curso de JavaScript curso curso.";
 var texto2 = "Es un muy buen curso.";
-/*
-var dato = numero.toString();
-console.log(dato);
-console.log(typeof(dato));
 
-dato = texto1.toUpperCase();
-console.log(dato);
-console.log(dato.toLowerCase());
+var busqueda = texto1.indexOf("curso");
+console.log(busqueda);
 
-// Calcular longitud
+busqueda = texto1.lastIndexOf("curso");
+console.log(busqueda);
 
-var nombre = "Alberto Alan Zul Rabasa";
-console.log(nombre.length);
-*/
-// Concatenar - Unir textos
+busqueda = texto1.search("curso");
+console.log(busqueda);
 
-var textoTotal = texto1.concat(" " + texto1);
-console.log(textoTotal);
+busqueda = texto1.match("/curso/g");
+console.log(busqueda);
+
+busqueda = texto1.substr(14, 5);
+console.log(busqueda);
+
+busqueda = texto1.charAt(44);
+console.log(busqueda);
+
+busqueda = texto1.startsWith("Bienvenido al curso");
+console.log(busqueda);
+
+busqueda = texto1.endsWith("curso curso.");
+console.log(busqueda);
+
+busqueda = texto1.includes("JavaScript.");
+console.log(busqueda);
