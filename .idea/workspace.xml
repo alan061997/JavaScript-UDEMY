@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09dd8ae-ae80-4718-a81c-6b20849401c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hola-mundo/js/Section 12/24-plantillas.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hola-mundo/js/Section 12/23-funciones-texto.js" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/js/Section 12/23-funciones-texto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hola-mundo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hola-mundo/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -74,27 +75,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="js" value="26" />
+          <entry key="js" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="26" />
+          <entry key="JavaScript" value="27" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="138" />
-          <entry key="js" value="10086" />
-          <entry key="txt" value="113" />
+          <entry key="html" value="139" />
+          <entry key="js" value="10388" />
+          <entry key="txt" value="116" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="138" />
-          <entry key="JavaScript" value="10086" />
-          <entry key="PLAIN_TEXT" value="113" />
+          <entry key="HTML" value="139" />
+          <entry key="JavaScript" value="10388" />
+          <entry key="PLAIN_TEXT" value="116" />
         </counts>
       </usages-collector>
     </session>
@@ -104,26 +105,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="88" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/22-ambito.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+            <state relative-caret-position="312">
+              <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/23-funciones-texto.js">
+        <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/24-plantillas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -175,8 +167,9 @@
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/20-parametros2.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/21-funciones-anonimas.js" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/22-ambito.js" />
-        <option value="$PROJECT_DIR$/hola-mundo/index.html" />
         <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/23-funciones-texto.js" />
+        <option value="$PROJECT_DIR$/hola-mundo/index.html" />
+        <option value="$PROJECT_DIR$/hola-mundo/js/Section 12/24-plantillas.js" />
       </list>
     </option>
   </component>
@@ -287,7 +280,7 @@
       <workItem from="1534348739795" duration="188000" />
       <workItem from="1534349146755" duration="321000" />
       <workItem from="1534352255257" duration="2624000" />
-      <workItem from="1534429316858" duration="432000" />
+      <workItem from="1534429316858" duration="929000" />
     </task>
     <task id="LOCAL-00001" summary="Section 5 - Lecture 17">
       <created>1533828957547</created>
@@ -527,17 +520,24 @@
       <option name="project" value="LOCAL" />
       <updated>1534355777061</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Section 12 - Lecture 51">
+      <created>1534429967997</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1534429967997</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31034000" />
+    <option name="totallyTimeSpent" value="31531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23977433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23977433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -548,7 +548,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3293011" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293011" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3293011" />
@@ -600,7 +600,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Section 8 - Lecture 26" />
     <MESSAGE value="Section 9 - Lecture 27" />
     <MESSAGE value="Section 9 - Lecture 28" />
     <MESSAGE value="Section 9 - Lecture 29" />
@@ -625,7 +624,8 @@
     <MESSAGE value="Section 12 - Lecture 48" />
     <MESSAGE value="Section 12 - Lecture 49" />
     <MESSAGE value="Section 12 - Lecture 50" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 12 - Lecture 50" />
+    <MESSAGE value="Section 12 - Lecture 51" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 12 - Lecture 51" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -779,13 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="88" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/22-ambito.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -795,8 +788,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/23-funciones-texto.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+        <state relative-caret-position="153">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hola-mundo/js/Section 12/24-plantillas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
