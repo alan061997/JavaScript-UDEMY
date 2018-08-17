@@ -6,8 +6,21 @@ var nombre = "Alberto";
 var nombres = ["Alberto Alan", "Luis Erick", "Rodolfo", "Arturo", 420, true];
 var lenguajes = new Array("PHP", "JS", "Java", "Go", "Python");
 
-console.log(nombres);
-console.log(lenguajes);
+/*var elemento = parseInt(prompt("¿Que elemento del array quieres?", 0));
 
-console.log(nombres[4]);
-console.log(lenguajes[0]);
+while(true)
+if (elemento >= nombres.length || isNaN(elemento)) {
+    alert("El indice no es valido porfavor elige un numero de 0 a " + (nombres.length - 1));
+    elemento = parseInt(prompt("¿Que elemento del array quieres?", 0));
+} else {
+    alert("El elemento seleccionado es: ["+nombres[elemento]+"]");
+    break;
+}*/
+
+document.write("<h1>Lenguajes de programacion</h1><br/>");
+document.write("<ul>");
+for (var i = 0; i < lenguajes.length; i++) {
+    document.write("<li>" + lenguajes[i] + "</li>");
+}
+document.write("</ul></br>");
+
