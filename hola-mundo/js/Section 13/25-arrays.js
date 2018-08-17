@@ -4,7 +4,7 @@
 
 var nombre = "Alberto";
 var nombres = ["Alberto Alan", "Luis Erick", "Rodolfo", "Arturo", 420, true];
-var lenguajes = new Array("PHP", "JS", "Java", "Go", "Python");
+var lenguajes = ["PHP", "JS", "Java", "Go", "Python"];
 
 /*var elemento = parseInt(prompt("¿Que elemento del array quieres?", 0));
 
@@ -24,10 +24,16 @@ document.write("<ul>");
     document.write("<li>" + lenguajes[i] + "</li>");
 }*/
 
+/*
 lenguajes.forEach((elemento, indice, arr) => {
     console.log(arr);
     document.write("<li>" + indice + " - " + elemento + "</li>");
 });
+*/
+
+for (let lenguaje in lenguajes) {
+    document.write("<li>" + lenguajes[lenguaje] + "</li>")
+}
 
 document.write("</ul></br>");
 
