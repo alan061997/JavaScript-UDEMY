@@ -19,8 +19,15 @@ if (elemento >= nombres.length || isNaN(elemento)) {
 
 document.write("<h1>Lenguajes de programacion</h1><br/>");
 document.write("<ul>");
-for (var i = 0; i < lenguajes.length; i++) {
+
+/*for (var i = 0; i < lenguajes.length; i++) {
     document.write("<li>" + lenguajes[i] + "</li>");
-}
+}*/
+
+lenguajes.forEach((elemento, indice, arr) => {
+    console.log(arr);
+    document.write("<li>" + indice + " - " + elemento + "</li>");
+});
+
 document.write("</ul></br>");
 
