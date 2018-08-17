@@ -26,6 +26,7 @@ if (indice > -1) {
     peliculas.splice(indice, 1);
 }
 var peliculas_string = peliculas.join();
-console.log(peliculas);
+var cadena = peliculas_string.split(",")
+console.log(cadena);
 console.log(peliculas_string);
 
